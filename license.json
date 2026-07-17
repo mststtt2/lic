@@ -4,8 +4,8 @@
     "product_hash": "d189b937fc1663e92122a43ee954cdfb624db9252c1e5aa09b42eb6530ac2649",
     "status": "ok",
     "kill": false,
-    "revision": 1784255629,
-    "issued_at": 1784255629,
+    "revision": 1784256482,
+    "issued_at": 1784256482,
     "expires": 2099244375,
     "grace_seconds": 21600,
     "max_age_seconds": 2592000,
@@ -14,16 +14,16 @@
     "drm_key": "20e7e135f9fa87d5663666fb3fa859df4a977f9d51bfd9d654c60a8696bf7aad",
     "nodes": {
       "*": {
+        "status": "ok",
         "ip_hashes": [
           "364b04f64b35b14901c8b786bebdd92bfb9cd7e3c8a4a4d8524f81684b3d8af6",
           "366d03463b5cb58982ce2dbc3109abe3d6c42025de14c8e2ff1f34809a018a9d",
           "84cde6457fdc8e6d342c5f3a59e9188ce6cc4d1f8bb098ff86e1ba16410689c7",
           "add6f6b6e996144a1555c3bd2a3e6c1a506460cdb6f4fd6ef2e138008ba4c40d",
           "782afdc2997871fa6d38c031b0f143556e843913942eca0a9088c92eb662a178"
-        ],
-        "status": "ok"
+        ]
       }
     }
   },
-  "sig": "a7de0fed8f879f23a6729b719263b396a567e65620b32c101bc29a2333ec9764db02d0ffaebfd30576bba38c43ea430b5db8b0cef99419163e3114250d566303"
+  "sig": "7638b75188ead9da49ce204188f9d7ef65b1b429d99570bb782034702da3a2f5dc24b9b2843202b37f0d2189ea7386db738bac0dff188ffcb11a4d06cc8b5007"
 }
