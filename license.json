@@ -4,8 +4,8 @@
     "product_hash": "d189b937fc1663e92122a43ee954cdfb624db9252c1e5aa09b42eb6530ac2649",
     "status": "ok",
     "kill": false,
-    "revision": 1784256482,
-    "issued_at": 1784256482,
+    "revision": 1784256863,
+    "issued_at": 1784256863,
     "expires": 2099244375,
     "grace_seconds": 21600,
     "max_age_seconds": 2592000,
@@ -25,5 +25,5 @@
       }
     }
   },
-  "sig": "7638b75188ead9da49ce204188f9d7ef65b1b429d99570bb782034702da3a2f5dc24b9b2843202b37f0d2189ea7386db738bac0dff188ffcb11a4d06cc8b5007"
+  "sig": "6eac83387302cb42204b2bc5754a6cf175b27d9b6f962121c510af92dc18d9995ac8f698dc14b57abf7b35377725e76e0594208067733c2e4e904f433f4ab906"
 }
