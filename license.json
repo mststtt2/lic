@@ -4,8 +4,8 @@
     "product_hash": "d189b937fc1663e92122a43ee954cdfb624db9252c1e5aa09b42eb6530ac2649",
     "status": "ok",
     "kill": false,
-    "revision": 1786460365,
-    "issued_at": 1786460365,
+    "revision": 1789583061,
+    "issued_at": 1789583061,
     "expires": 2099244375,
     "grace_seconds": 21600,
     "max_age_seconds": 2592000,
@@ -38,10 +38,11 @@
           "abce1ad1ba559bb0a2cc9682a15f130eafdeda6c354a5f00cd2c91f7a6a736f6",
           "14966f1683198fdd5b6576d45d3fd352ce5082f32f0b8cb269decabf3a1ca871",
           "bfdf84ea38ea61eb03bfed7a9dcbccfa2a52b78e4170239fc9f5033b7dcb48a6",
-          "1d16f828bc50e3c3ec741b4470930ad746b286e145dcee226928a2c530979e81"
+          "1d16f828bc50e3c3ec741b4470930ad746b286e145dcee226928a2c530979e81",
+          "c74e72f95137df290c03d23b47f21b525891535c4febdb10acea8164490db861"
         ]
       }
     }
   },
-  "sig": "d1ccf2bed0df502d2b397c37dc6da55375d04f19f2f9682e7606bf373bc2b0ad399a213610dfae9dab7e9fa82501fecc2a9aa82ed866e4943c5a1c337df8c000"
+  "sig": "afca8fd79d26a56a0a87396c6ea4676093a2c0fe1096f03709bbd4f88f0927a2f70cc2ceb47e59e1a30eec913279bebf8e09abf99c77d53bbd3e6b0a958e8303"
 }
